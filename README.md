@@ -3,7 +3,7 @@
 
 # 👨‍💻 OnlyFlames — Full‑Stack Developer
 
-Desarrollador enfocado en **arquitectura de software**, **aplicaciones nativas** y **experiencias seguras sin contraseñas**.  
+Desarrollador enfocado en **arquitectura de software**, **aplicaciones nativas** y **experiencias seguras**.  
 Actualmente lidero el desarrollo de **PPOCes**, una solución moderna para la gestión de turnos, diseñada para escalar y adaptarse a equipos reales.
 
 Mi objetivo: **crear software sólido, mantenible y orientado a problemas reales**.
