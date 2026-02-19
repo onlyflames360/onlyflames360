@@ -82,10 +82,4 @@ Si quieres aportar ideas, colaborar o estás interesado en mi perfil para un pro
 
 ***
 
-Si quieres, puedo generarte **una versión aún más orientada a empresas**, con:
 
-*   keywords optimizadas para ATS,
-*   un apartado de “Skills técnicas”,
-*   o una sección de “Tecnologías principales” con badges visuales.
-
-¿Quieres que lo prepare también?
